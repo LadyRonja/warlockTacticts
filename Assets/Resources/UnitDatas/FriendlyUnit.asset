@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41dd78342b4f7fb4291820c0a4cc3952, type: 3}
+  m_Name: FriendlyUnit
+  m_EditorClassIdentifier: 
+  AssetID: 9c6e1809-6dc6-4a28-b565-faad803a58e5
+  unitName: Friendly Unit
+  controlledByPlayer: 1
+  maxHealth: 40
+  curHealth: 40
+  moveRange: 3
+  maxMana: 4
+  aquireDefaultValueOnLoad: 1
+  unitIDforClonedData: e70fd93d-ba99-4137-b446-9e9c572293e3

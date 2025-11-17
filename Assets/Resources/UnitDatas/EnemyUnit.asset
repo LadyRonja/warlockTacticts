@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41dd78342b4f7fb4291820c0a4cc3952, type: 3}
+  m_Name: EnemyUnit
+  m_EditorClassIdentifier: 
+  AssetID: 3f1da868-b32f-45be-81c7-d009df96e114
+  unitName: Enemy Unit
+  controlledByPlayer: 0
+  maxHealth: 20
+  curHealth: 20
+  moveRange: 1
+  maxMana: 4
+  aquireDefaultValueOnLoad: 1
+  unitIDforClonedData: 31cf6688-d0a4-4b5f-ad13-f256cc57fd04
